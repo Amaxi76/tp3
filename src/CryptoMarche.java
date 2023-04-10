@@ -32,7 +32,7 @@ public class CryptoMarche {
 
 		for ( Portefeuille p : this.portefeuilles)
 			if ( p.getProprietaire().equals ( proprietaire) )
-				capital += p.getMonnaie().valeurEnEuros();
+				capital += p.valeurEnEuros();
 
 		return capital;
 	}
@@ -50,7 +50,7 @@ public class CryptoMarche {
 
 		for ( Portefeuille p : this.portefeuilles)
 			if ( p.getMonnaie() == monnaie )
-				capitalT += p.getMonnaie().valeurEnEuros();
+				capitalT += p.valeurEnEuros();
 
 		return capitalT;
 	}
