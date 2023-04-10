@@ -30,10 +30,11 @@ public class CryptoMarche {
 	{
 		int capital = 0;
 
-		for ( Portefeuille p : this.portefeuilles)
-			if ( p.getProprietaire().equals ( proprietaire) )
+		for ( Portefeuille p : this.portefeuilles )
+			if ( p.getProprietaire().equals ( proprietaire ) )
 				capital += p.valeurEnEuros();
 
+		System.out.println(capital);
 		return capital;
 	}
 
