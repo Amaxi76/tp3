@@ -42,7 +42,7 @@ public class Portefeuille {
 	{
 		if (montantEuros < 0) return false;
 
-		this.montant += montantEuros/this.valeurEnEuros();
+		this.montant += (double)(montantEuros/this.monnaie.getValeurDeJeton());
 		return true;
 	}
 
