@@ -34,7 +34,6 @@ public class CryptoMarche {
 			if ( p.getProprietaire().equals ( proprietaire ) )
 				capital += p.valeurEnEuros();
 
-		System.out.println(capital);
 		return capital;
 	}
 
