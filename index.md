@@ -29,7 +29,10 @@ Image externe
 .encadre{
 	background-color: #5692FF;
 	border-radius: 10px;
-	border: 5px solid #000;
+	border: 2px solid #000;
+	padding: 25px;
+	color: black;
+	text-align: center;
 }
 </style>
 <table class="tg">
