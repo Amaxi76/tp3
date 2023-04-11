@@ -6,4 +6,4 @@ Le site de l'IUT du Havre
 La page de Celia Antunes (Responable Controle Qualite sur viande DAUBEUF)
 [Cliquez ici pour y accéder](./celia.md)
 
-<img src="./images/clemich.jpg" alt="Voici une image de clemich" title="Un pokémon sauvage est aparut"/>
+<img src="./images/clemich.JPG" alt="Voici une image de clemich" title="Un pokémon sauvage est aparut"/>
