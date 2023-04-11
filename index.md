@@ -3,4 +3,4 @@
 Le site de l'IUT du Havre
 [Cliquez ici pour y accéder](https://www-iut.univ-lehavre.fr)
 
-[Cliquez ici pour y accéder](https://www-iut.univ-lehavre.fr)
+[Cliquez ici pour y accéder](./celia.md)
