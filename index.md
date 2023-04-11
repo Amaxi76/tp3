@@ -6,5 +6,4 @@ Le site de l'IUT du Havre
 La page de Celia Antunes (Responable Controle Qualite sur viande DAUBEUF)
 [Cliquez ici pour y accéder](./celia.md)
 
-Voici une image de la viande de DAUBEUF
-![Cette image est belle](./images/clemich.jpg)
+<img src="./images/clemich.jpg" alt="Voici une image de clemich" />
