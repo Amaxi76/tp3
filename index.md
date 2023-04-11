@@ -1,5 +1,7 @@
 # Mon premier site GitHub
 
+##
+
 Le site de l'IUT du Havre
 [Cliquez ici pour y accéder](https://www-iut.univ-lehavre.fr)
 
@@ -12,6 +14,9 @@ L'image de DAUBEUF
 ***
 
 Image externe 
+
+***
+
 <img src="https://st4.depositphotos.com/1830989/28374/i/450/depositphotos_283741610-stock-photo-cute-cow-portrait.jpg" alt="un boeuf" title="un boeuf">
 
 *** 
@@ -34,7 +39,17 @@ Image externe
 	color: black;
 	text-align: center;
 }
+
+.tableau {
+	margin: 0 auto;
+	width: 100px;
+	height: 100px;
+	background-color: #ccc;
+	border-radius: 3px;
+}
 </style>
+
+<div class="tableau">
 <table class="tg">
 <thead>
   <tr>
@@ -53,7 +68,7 @@ Image externe
   </tr>
 </tbody>
 </table>
-
+</div>
 ***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b8HVQtIoBYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
