@@ -9,8 +9,12 @@ La page de Celia Antunes (Responable Controle Qualite sur viande DAUBEUF)
 L'image de DAUBEUF
 <img src="./images/clemich.JPG" alt="Voici une image de clemich" title="Un pokémon sauvage est aparut"/>
 
+***
+
 Image externe 
 <img src="https://st4.depositphotos.com/1830989/28374/i/450/depositphotos_283741610-stock-photo-cute-cow-portrait.jpg" alt="un boeuf" title="un boeuf">
+
+*** 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,3 +44,7 @@ Image externe
   </tr>
 </tbody>
 </table>
+
+***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b8HVQtIoBYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
