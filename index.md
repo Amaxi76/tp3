@@ -25,6 +25,12 @@ Image externe
 .tg .tg-266k{background-color:#9b9b9b;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+
+.encadre{
+	background-color: #5692FF;
+	border-radius: 10px;
+	border: 5px solid #000;
+}
 </style>
 <table class="tg">
 <thead>
@@ -48,3 +54,5 @@ Image externe
 ***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b8HVQtIoBYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div class="encadre">Ceci est encadré </div>
