@@ -42,8 +42,6 @@ Image externe
 
 .tableau {
 	margin: 0 auto;
-	width: 100px;
-	height: 100px;
 	background-color: #ccc;
 	border-radius: 3px;
 }
