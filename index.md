@@ -40,33 +40,29 @@ Image externe
 	text-align: center;
 }
 
-.tableau {
-	margin: 0 auto;
-	background-color: #ccc;
-	border-radius: 3px;
-}
 </style>
 
 <div class="tableau">
-<table class="tg">
-<thead>
-  <tr>
-	<th class="tg-0pky"></th>
-	<th class="tg-0lax">En France</th>
-	<th class="tg-0lax">En Belgique</th>
-	<th class="tg-0lax">En Ukraine</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-	<td class="tg-266k">Nombre de vache</td>
-	<td class="tg-0lax">18 Millions</td>
-	<td class="tg-0lax">2,3 Millions</td>
-	<td class="tg-0lax">600 000</td>
-  </tr>
-</tbody>
-</table>
+	<table class="tg">
+		<thead>
+  			<tr>
+				<th class="tg-0pky"></th>
+				<th class="tg-0lax">En France</th>
+				<th class="tg-0lax">En Belgique</th>
+				<th class="tg-0lax">En Ukraine</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="tg-266k">Nombre de vache</td>
+				<td class="tg-0lax">18 Millions</td>
+				<td class="tg-0lax">2,3 Millions</td>
+				<td class="tg-0lax">600 000</td>
+			</tr>
+		</tbody>
+	</table>
 </div>
+
 ***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b8HVQtIoBYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
