@@ -1,14 +1,26 @@
-**Nom :** Yanis Verdier
+**Nom :** Maximilien Lesterlin et Yanis Verdier
 **Groupe :** B2 - Equipe 08
 **Année :** 2023
 **IUT Le Havre - Cours GIT**
 
-### Compte-rendu TP3 Introduction GIT
+# Compte-rendu TP3 : Travailler en équipe sur un depôt GitHub distant
 
 Dans ce TP, on apprend à travailler avec github en équipe.
-<<<<<<< HEAD
-Nous avons maintenant créé une nouvelle branche de test.
-=======
 
-“Nous avons maintenant créé une nouvelle branche de test”
->>>>>>> a92409e31af4e9bd2372e485c89a218944e3aada
+## 1) Inviter des collaborateurs dans un dépôt personnel
+
+Dans cette première partie, nous avons accordé l'autorisation à notre dépot que nous avons créé à un de nos camarades.
+
+## 2) Développement d'un projet Java en équipe
+
+Lors de cette partie, nous avons pu nous exercer sur la manipulation des commandes ainsi que le travail en équipe en utilisant Git.
+
+## 3) Gérer des nouvellles fonctionnlités à l'aide des branches
+
+Avec cette dernière partie, nous avons découvert les branches d'un projet. Nous avons donc pu créer notre propre banche "test", ainsi que de déplacer dedans et puis les fusionner une fois les manipulations effectuées.
+
+Les commandes que nous avons pu utiliser : 
+* `git checkout -b test` : permet de créer une nouvelle branche appelée "test"
+* `git branch` : permet de savoir les branches présentes ainsi que sur quelle branche nous sommes actuellement.
+* `git checkout main` : permet de s'y déplacer
+* `git merge test ` :  permet de fusionner la branche test avec la branche principale.
